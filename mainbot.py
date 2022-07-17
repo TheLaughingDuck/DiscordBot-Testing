@@ -1,0 +1,1 @@
+print("This is printed from the python bot file!")
