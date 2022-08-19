@@ -20,8 +20,8 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-  print("------------------")
-  print("Message event started")
+  #print("------------------")
+  #print("Message event started")
 
   if(message.author == client.user):
     print("Message by self detected")

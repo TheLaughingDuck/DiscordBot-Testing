@@ -1,1 +1,4 @@
 .env
+index.html
+heroku_bot_deploy.py
+testing.py
