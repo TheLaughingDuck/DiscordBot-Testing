@@ -1,1 +1,1 @@
-worker: release mainbot.py
+worker: python main.py
